@@ -1,10 +1,9 @@
 # IS 452AO Fall 2018 Syllabus
 ## Instructor information
 
-* Instructor: Elizabeth Wickes
-* Office: 329 Information Sciences Building
-* Email: wickes1@illinois.edu
-* Cell phone: look in moodle, I'm not putting this on github (do not call after 9pm)
+* Instructor: Nick LaLone
+* Office: 208 Information Sciences Building
+* Email: nlalone@illinois.edu
 
 ## Course description
 
@@ -42,10 +41,11 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 
 * Regular class times: 
   * Live session attendance is a requirement for all enrolled students.  Sessions will be recorded and available across all sections.
-  * AO: 5:30-7:30pm Mondays online in BBC (a guest link will be made available for A and B sections)
-  * (Optional) Lab/office hours open to AO:  7:30-8:30 in BBC classroom, directly following class. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
-* Make an appointment to meet with me:
-  * Book from https://wickes1.mybookafy.com.  See the moodle with more information on booking these appointments.  SUBJECT TO CHANGE.
+  * A/B: 9-11:50a Monday (section B) and 9-11:50a (section B)
+  * Office Hours: 12:45p-3:00p Monday, Tuesday, and Wednesday. 
+  * Lab Hours: 11-1150a. 
+  
+  When these hours cannot be met due to travel, illness, or other circumstance, I will send an email to the class.
 
 ## Required textbooks
 
@@ -137,10 +137,10 @@ Here are the required elements for any homework submission:
 
 * Narrative
   * One narrative file for the entire homework, PDF preferred. Include your netid in the file name. There is as later section that describes what this is.
-  * Example file name: wickes1_hw01_narrative.pdf
+  * Example file name: lalone_hw01_narrative.pdf
 * Python files (these are the py files that PyCharm creates), one for each problem
   * Some HW problems will build off each other, and you can combine them into one py file. Just clearly mark where the code is for each problem.
-  * Example file name: wickes1_pe4.py, wickes1_pe4+8.py, etc.
+  * Example file name: lalone_pe4.py, lalone_pe4+8.py, etc.
 
 #### Due date polices and procedures (only for weekly homeworks)
 
