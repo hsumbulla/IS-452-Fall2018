@@ -52,7 +52,7 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 The quick: you will need to purchase access to the Zelle third edition. Only the third edition will work for our class. I will have an office copy in case of emergency, but that copy cannot be your primary copy.
 
 1.	Zelle, John.  Python Programming: an introduction to computer science.  (THIRD edition).  Franklin, Beedle & Associates Inc.
-2.	Python for Everyone (http://pythonlearn.com/book.php and https://books.trinket.io/pfe/index.html) This a free book available online or for purchase if you want a physical copy.  These chapters are optional and meant to provide additional information and context if desired.  There are a few weeks where I strongly suggest that you read this book first, and will note it in moodle.
+2.	Python for Everybody (http://pythonlearn.com/book.php and https://books.trinket.io/pfe/index.html) This a free book available online or for purchase if you want a physical copy.  These chapters are optional and meant to provide additional information and context if desired.  There are a few weeks where I strongly suggest that you read this book first, and will note it in moodle.
 
 The **Third** edition of the Zelle book is required.  Neither of the other editions will match up with the content and homework problems and therefore will not be supported or accommodated. You are expected to have consistent access to the textbook. Do not use any of the pirated PDF versions because they do not match up with the print edition in ways that will impact your grade.
 
